@@ -1,0 +1,10 @@
+C:\Users\josh\Documents\Visual Studio 2017\Projects\userlogin\userlogin\bin\Debug\userlogin.exe.config
+C:\Users\josh\Documents\Visual Studio 2017\Projects\userlogin\userlogin\bin\Debug\userlogin.exe
+C:\Users\josh\Documents\Visual Studio 2017\Projects\userlogin\userlogin\bin\Debug\userlogin.pdb
+C:\Users\josh\Documents\Visual Studio 2017\Projects\userlogin\userlogin\obj\Debug\userlogin.csprojResolveAssemblyReference.cache
+C:\Users\josh\Documents\Visual Studio 2017\Projects\userlogin\userlogin\obj\Debug\userlogin.Form1.resources
+C:\Users\josh\Documents\Visual Studio 2017\Projects\userlogin\userlogin\obj\Debug\userlogin.Properties.Resources.resources
+C:\Users\josh\Documents\Visual Studio 2017\Projects\userlogin\userlogin\obj\Debug\userlogin.csproj.GenerateResource.Cache
+C:\Users\josh\Documents\Visual Studio 2017\Projects\userlogin\userlogin\obj\Debug\userlogin.csproj.CoreCompileInputs.cache
+C:\Users\josh\Documents\Visual Studio 2017\Projects\userlogin\userlogin\obj\Debug\userlogin.exe
+C:\Users\josh\Documents\Visual Studio 2017\Projects\userlogin\userlogin\obj\Debug\userlogin.pdb
